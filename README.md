@@ -1,6 +1,6 @@
 - 👋 Hi, myself Idrish Sorathiya
-- I have more than 11 years of experience in Mobile development. 
-- I am experienced in Native iOS, Xamarin and Flutter.
+- :mortar_board: I have more than 11 years of experience in Mobile development. 
+- :mortar_board: I am experienced in Native iOS, Xamarin and Flutter.
 - 💞️ I love to work on Flutter.
 - ✨ [TeachMobility](http://teachmobility.com/) 
 - ✨ Collaboration on [Stackoverflow](https://stackoverflow.com/users/634704/iducool)
