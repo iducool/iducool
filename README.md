@@ -1,8 +1,9 @@
 - 👋 Hi, myself Idrish Sorathiya
 - :mortar_board: I have more than 12 years of experience in Mobile development. 
 - :mortar_board: I am experienced in Native iOS, Xamarin and Flutter.
+- :mortar_board: Enjoying NodeJs and Postgress.
 - 💞️ I love to work on Flutter.
-- ✨ Portfolio [Website](https://idrishsorathiya.web.app/) 
+- ✨ Portfolio [Link](https://idrishsorathiya.web.app/) 
 - ✨ Collaboration on [Stackoverflow](https://stackoverflow.com/users/634704/iducool)
 - 📫 Idrish2021@gmail.com
 
